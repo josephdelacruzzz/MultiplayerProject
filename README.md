@@ -13,5 +13,5 @@ How to run:
 9. Click "Player 2" on the client device
 10. Enjoy Tic-Tac-Toe!
 
-This repository includes a video of the game running, which was ran with Apple Silicon and Apple Intel MacBooks.  
+This project was ran with Apple Silicon and Apple Intel MacBooks.  
 
